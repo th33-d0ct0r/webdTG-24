@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+/* css selectors: .class #id */
+
+.heading {
+    color: violet;
+}
+
+/* #main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+
+#ts-icon {
+    width: 100px;
+    height: 100px;
+}
+
+#heading-1 {
+    background-color: white;
+}
+
+/* text and fonts */
+#para {
+    font-size: 30px;
+    font-family: 'outfit';
+    font-weight: 900;
+    /* color: blue; */
+    /* color: rgba(7, 176, 228, 0.804); */
+    color: #ad1818;
+}
+
+#background {
+    width: 800px;
+    height: 800px;
+    /* background-color: #16e16e; */
+    background-image: url("https://www.techsyndicate.us/assets/images/ts.png");
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    background-position: -500px;
+}
